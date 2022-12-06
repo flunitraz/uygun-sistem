@@ -3,7 +3,7 @@
 1,AMD Ryzen 5 7600X,NVIDIA RTX 3070,16 GB,1 TB,34699,gaming.gen.tr,https://www.gaming.gen.tr/urun/217838/teknoseyir-x670-amd-ryzen-5-7600x-asus-dual-geforce-rtx-3070-gaming-oc-8gb-16gb-ram-1tb-m-2-ssd-gaming-bilgisayar/
 2,AMD Ryzen 5 4500,NVIDIA RTX 3060,16 GB,500 GB,13999,gaming.gen.tr,https://www.gaming.gen.tr/urun/217591/prime-4500-amd-ryzen-5-4500-asus-geforce-dual-rtx-3060-v2-12gb-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
 3,AMD Ryzen 5 7700X,NVIDIA RTX 4080,32 GB,1 TB,65699,gaming.gen.tr,https://www.gaming.gen.tr/urun/215035/elite-4080-amd-ryzen-7-7700x-asus-geforce-tuf-rtx-4080-16gb-oc-32gb-ram-1tb-m-2-ssd-gaming-bilgisayar/
-4,AMD Ryzen 5 5600X,NVIDIA RTX 3060 TI,16 GB,500 GB,17699,gaming.gen.tr,https://www.gaming.gen.tr/urun/212613/blade-5600-amd-ryzen-5-5600-asus-geforce-rtx-3060-ti-dual-v2-oc-8gb-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
+4,AMD Ryzen 5 5600X,NVIDIA RTX 3060 TI,16 GB,500 GB,18999,gaming.gen.tr,https://www.gaming.gen.tr/urun/212613/blade-5600-amd-ryzen-5-5600-asus-geforce-rtx-3060-ti-dual-v2-oc-8gb-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
 5,Intel Core I9 12900KS,NVIDIA RTX 3080 TI,32 GB,500 GB,68999,gaming.gen.tr,https://www.gaming.gen.tr/urun/210088/platinum-3080ti-v1-o-pc-intel-i9-12900ks-asus-tuf-geforce-rtx-3080-ti-oc-12gb-32gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
 6,Intel Core I3 12100F,NVIDIA RTX 3060,16 GB,500 GB,15199,gaming.gen.tr,https://www.gaming.gen.tr/urun/208665/prime-3060-intel-i3-12100f-asus-geforce-dual-rtx-3060-v2-12gb-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
 7,AMD Ryzen 5 5600X,AMD RX 6700-XT,16 GB,500 GB,16199,gaming.gen.tr,https://www.gaming.gen.tr/urun/206399/ultima-6700xt-amd-ryzen-5-5600x-asus-radeon-rx-6700-xt-dual-12gb-oc-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
@@ -15,152 +15,153 @@
 13,Intel Core I5 12400F,AMD RX 6700-XT,16 GB,500 GB,16999,gaming.gen.tr,https://www.gaming.gen.tr/urun/202249/rraenee-6700xt-intel-i5-12400f-asus-radeon-rx-6700-xt-dual-12gb-oc-gddr6-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
 14,AMD Ryzen 5 5500,AMD RX 6600,16 GB,500 GB,12399,gaming.gen.tr,https://www.gaming.gen.tr/urun/201911/dost-kayaoglu-dk4-amd-amd-ryzen-5-5500-asus-radeon-dual-rx-6600-8gb-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
 15,Intel Core I3 12100F,AMD RX 6600,16 GB,500 GB,11999,gaming.gen.tr,https://www.gaming.gen.tr/urun/201508/dost-kayaoglu-dk4-intel-intel-i3-12100f-asus-radeon-dual-rx-6600-8gb-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
-16,AMD Ryzen 5 5500,AMD RX 6600,16 GB,500 GB,12499,gaming.gen.tr,https://www.gaming.gen.tr/urun/195650/haqqus-amd-amd-ryzen-5-5500-msi-radeon-rx-6600-mech-2x-8gb-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
-17,Intel Core I3 12100F,AMD RX 6600,16 GB,500 GB,12499,gaming.gen.tr,https://www.gaming.gen.tr/urun/195643/haqqus-intel-intel-i3-12100f-msi-radeon-rx-6600-mech-2x-8gb-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
-18,Intel Core I5 12400F,NVIDIA RTX 3060,16 GB,500 GB,19999,gaming.gen.tr,https://www.gaming.gen.tr/urun/193002/studio-rtx3060-intel-i5-12400f-asus-geforce-dual-rtx-3060-v2-12gb-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
-19,Intel Core I3 12100F,AMD RX 6700-XT,16 GB,500 GB,14599,gaming.gen.tr,https://www.gaming.gen.tr/urun/176464/mantis-12400f-intel-i5-12400f-asus-dual-geforce-rtx-3070-si-8gb-16gb-ram-512gb-m-2-ssd-gaming-bilgisayar/
-20,Intel Core I3 10105F,NVIDIA RTX 3050,16 GB,500 GB,16821,gaming.gen.tr,https://www.gaming.gen.tr/urun/167755/cyber-3050-intel-i3-10105f-asus-dual-geforce-rtx-3050-oc-8gb-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
-21,Intel Core I5 12400F,NVIDIA RTX 3060,16 GB,500 GB,16799,gaming.gen.tr,https://www.gaming.gen.tr/urun/167625/nova-3060-intel-i5-12400f-asus-geforce-dual-rtx-3060-v2-12gb-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
-22,Intel Core I3 10105F,NVIDIA GTX 1660 TI,16 GB,500 GB,14399,gaming.gen.tr,https://www.gaming.gen.tr/urun/166564/tezcan-racing-intel-i3-10105f-asus-tuf-geforce-gtx-1660-ti-evo-6gb-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
-23,Intel Core I3 12100F,NVIDIA RTX 3050,16 GB,500 GB,14599,gaming.gen.tr,https://www.gaming.gen.tr/urun/160317/nova-3050-intel-i3-12100f-asus-dual-geforce-rtx-3050-oc-8gb-gddr6-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
-24,AMD Ryzen 5 4500,NVIDIA RTX 3050,16 GB,500 GB,14499,gaming.gen.tr,https://www.gaming.gen.tr/urun/160312/ultima-3050-amd-ryzen-5-4500-asus-dual-geforce-rtx-3050-oc-8gb-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
-25,Intel Core I3 10105F,NVIDIA GTX 1660,16 GB,500 GB,12469,gaming.gen.tr,https://www.gaming.gen.tr/urun/158906/nova-1660-intel-i5-10400f-asus-phoenix-geforce-gtx-1660-oc-6gb-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
-26,AMD Ryzen 5 5500,AMD RX 6600,16 GB,500 GB,11999,gaming.gen.tr,https://www.gaming.gen.tr/urun/145453/blade-6600-amd-ryzen-5-5500-asus-radeon-dual-rx-6600-8gb-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
-27,Intel Core I3 12100F,NVIDIA GTX 1660,16 GB,500 GB,12799,gaming.gen.tr,https://www.gaming.gen.tr/urun/131904/cyber-1660s-amd-ryzen-3-4100-asus-dual-geforce-gtx-1660-super-oc-evo-6gb-16gb-ram-512gb-m-2-ssd-gaming-bilgisayar/
-28,AMD Ryzen 5 5500,NVIDIA RTX 3060,16 GB,500 GB,13999,gaming.gen.tr,https://www.gaming.gen.tr/urun/107991/ultima-5500-amd-ryzen-5-5500-asus-geforce-dual-rtx-3060-v2-oc-12gb-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
-29,AMD Ryzen 5 5500,NVIDIA RTX 3060 TI,16 GB,500 GB,15899,gaming.gen.tr,https://www.gaming.gen.tr/urun/95747/ultima-3060ti-amd-ryzen-5-5500-asus-geforce-rtx-3060-ti-dual-v2-oc-8gb-16gb-ram-512gb-m-2-ssd-gaming-bilgisayar/
-30,Intel Core I3 12100F,NVIDIA RTX 3060,16 GB,500 GB,14899,gaming.gen.tr,https://www.gaming.gen.tr/urun/68948/ultima-12100f-intel-i3-12100f-asus-geforce-dual-rtx-3060-v2-oc-12gb-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
-31,Intel Core I5 12400F,AMD RX 6700-XT,16 GB,500 GB,19999,gaming.gen.tr,https://www.gaming.gen.tr/urun/64956/nova-6700xt-intel-i5-12400f-asus-radeon-rx-6700-xt-dual-12gb-oc-gddr6-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
-32,AMD Ryzen 5 5600X,NVIDIA RTX 3060,16 GB,500 GB,15999,gaming.gen.tr,https://www.gaming.gen.tr/urun/49945/ultima-3060-amd-ryzen-5-5600x-asus-geforce-dual-rtx-3060-v2-oc-12gb-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
-33,AMD Ryzen 5 3600,NVIDIA GTX 1660 TI,16 GB,500 GB,15799,gaming.gen.tr,https://www.gaming.gen.tr/urun/47836/cyber-3600-amd-ryzen-5-3600-asus-tuf-geforce-gtx-1660-ti-evo-6gb-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
-34,AMD Ryzen 5 5600X,NVIDIA RTX 3070,16 GB,500 GB,22499,gaming.gen.tr,https://www.gaming.gen.tr/urun/27521/ultima-3070-amd-ryzen-5-5600-asus-dual-geforce-rtx-3070-v2-oc-8gb-16gb-ram-500-gb-m-2-ssd-gaming-bilgisayar/
-35,Intel Core I3 12100F,NVIDIA GTX 1660 TI,16 GB,500 GB,15199,gaming.gen.tr,https://www.gaming.gen.tr/urun/26558/mantis-1660ti-intel-i3-12100f-asus-tuf-gaming-geforce-gtx-1660-ti-evo-oc-6gb-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
-36,Intel Core I3 12100F,NVIDIA GTX 1660,16 GB,500 GB,13369,gaming.gen.tr,https://www.gaming.gen.tr/urun/6244/cyber-1660-intel-core-i3-10105f-asus-phoenix-geforce-gtx-1660-oc-6gb-16-gb-ram-500gb-ssd-gaming-bilgisayar/
-37,Intel Core I3 10105F,NVIDIA GTX 1660,16 GB,500 GB,11499,gaming.gen.tr,https://www.gaming.gen.tr/urun/5985/nova-1660s-intel-i3-10105f-asus-tuf-geforce-gtx-1660-super-6gb-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
-38,AMD Ryzen 5 5600,NVIDIA RTX 3060,16 GB,500 GB,16999,itopya.com,https://itopya.com/teknohayat-1_h20922
-39,Intel Core I3 12100F,NVIDIA RTX 2060,16 GB,480 GB,17625,itopya.com,https://itopya.com/hugola-orchestra_h20463
-40,Intel Core I3 10105F,NVIDIA GTX 1650,16 GB,480 GB,12218,itopya.com,https://itopya.com/hugola-symphony_h20462
-41,Intel Core I3 12100F,NVIDIA RTX 3050,16 GB,480 GB,15348,itopya.com,https://itopya.com/tunca-star_h20460
-42,AMD Ryzen 5 5500,NVIDIA RTX 3060,16 GB,500 GB,17347,itopya.com,https://itopya.com/jrokez-high_h20399
-43,AMD Ryzen 5 5500,NVIDIA RTX 3060,16 GB,500 GB,15943,itopya.com,https://itopya.com/edamilka-milka_h20386
-44,AMD Ryzen 5 5500,NVIDIA RTX 3050,16 GB,500 GB,14593,itopya.com,https://itopya.com/kronos-air_h20373
-45,Intel Core I3 12100F,NVIDIA RTX 3050,16 GB,500 GB,14791,itopya.com,https://itopya.com/alpha-plus_h20312
-46,Intel Core I3 12100F,NVIDIA RTX 3060,16 GB,500 GB,17900,itopya.com,https://itopya.com/omega-plus_h20311
-47,Intel Core I5 12400F,NVIDIA RTX 3060 TI,16 GB,500 GB,22961,itopya.com,https://itopya.com/alpha-time_h20153
-48,AMD Ryzen 5 7600X,NVIDIA RTX 4080,32 GB,1 TB,69715,itopya.com,https://itopya.com/nvidia-studio-3_h20079
-49,AMD Ryzen 5 5500,NVIDIA RTX 3050,16 GB,500 GB,16827,itopya.com,https://itopya.com/nvidia-studio-2_h20078
-50,Intel Core I5 12400F,NVIDIA RTX 3070 TI,16 GB,500 GB,26917,itopya.com,https://itopya.com/nvidia-studio-1_h20077
-51,Intel Core I3 12100F,NVIDIA GTX 1660,16 GB,500 GB,15677,itopya.com,https://itopya.com/omega-s_h19894
-52,Intel Core I5 12400F,AMD RX 6800,16 GB,500 GB,22649,itopya.com,https://itopya.com/alpha-one_h19837
-53,AMD Ryzen 5 5600,NVIDIA RTX 3060,16 GB,500 GB,21973,itopya.com,https://itopya.com/alpha-rules_h19746
-54,AMD Ryzen 5 4500,NVIDIA GTX 1650,16 GB,500 GB,10947,itopya.com,https://itopya.com/dh-lion_h19719
-55,Intel Core I3 12100F,NVIDIA RTX 3050,16 GB,480 GB,14483,itopya.com,https://itopya.com/jahrein-nova_h18394
-56,AMD Ryzen 5 5500,NVIDIA GTX 1650,16 GB,500 GB,11976,itopya.com,https://itopya.com/adal-oberon_h18369
-57,Intel Core I3 12100F,NVIDIA RTX 3060,16 GB,500 GB,16515,itopya.com,https://itopya.com/jahrein-deimos_h18365
-58,Intel Core I5 12400F,NVIDIA RTX 3060,16 GB,500 GB,23036,itopya.com,https://itopya.com/jahrein-titan_h18363
-59,Intel Core I3 12100F,NVIDIA RTX 3060,16 GB,500 GB,20731,itopya.com,https://itopya.com/dh-tiger_h18264
-60,Intel Core I5 12400F,NVIDIA RTX 3060 TI,16 GB,500 GB,23223,itopya.com,https://itopya.com/teknopanda-karakiz-3_h18185
-61,Intel Core I5 12400F,NVIDIA RTX 3070,16 GB,500 GB,23826,itopya.com,https://itopya.com/adal-creeper_h18172
-62,Intel Core I5 12400F,NVIDIA RTX 3070,16 GB,480 GB,25746,itopya.com,https://itopya.com/jrokez-pro_h17121
-63,Intel Core I5 12400F,NVIDIA RTX 3070 TI,16 GB,480 GB,28773,itopya.com,https://itopya.com/hype-duo_h17035
-64,Intel Core I9 12900K,NVIDIA RTX 4080,32 GB,1 TB,77119,itopya.com,https://itopya.com/engineer-master_h16785
-65,Intel Core I9 12900K,NVIDIA RTX 3090,16 GB,1 TB,77580,itopya.com,https://itopya.com/render-ultra_h16783
-66,Intel Core I3 10105F,NVIDIA GTX 1050 TI,16 GB,500 GB,11626,itopya.com,https://itopya.com/bbl-rock_h16704
-67,Intel Core I5 12400F,AMD RX 6650-XT,16 GB,500 GB,24291,itopya.com,https://itopya.com/bbl-focus_h16699
-68,Intel Core I3 12100F,AMD RX 6500-XT,16 GB,500 GB,12390,itopya.com,https://itopya.com/efe-uygac-pro_h16695
-69,Intel Core I5 12400F,NVIDIA RTX 3060,16 GB,500 GB,27416,itopya.com,https://itopya.com/bbl-high_h16478
-70,AMD Ryzen 5 5500,AMD RX 6500-XT,16 GB,500 GB,12519,itopya.com,https://itopya.com/efe-uygac-shelby_h16454
-71,AMD Ryzen 5 5500,NVIDIA GTX 1650,16 GB,500 GB,12863,itopya.com,https://itopya.com/dh-entry_h16444
-72,Intel Core I3 12100F,NVIDIA RTX 3060,16 GB,512 GB,20712,itopya.com,https://itopya.com/vok-magic_h16442
-73,AMD Ryzen 5 4500,AMD RX 580,16 GB,480 GB,11010,itopya.com,https://itopya.com/burak-gungor-pro_h16242
-74,AMD Ryzen 5 5500,NVIDIA RTX 3060,16 GB,500 GB,18083,itopya.com,https://itopya.com/burak-gungor-ultra_h16227
-75,AMD Ryzen 5 5600,NVIDIA RTX 3060 TI,16 GB,500 GB,20448,itopya.com,https://itopya.com/teknopanda-karakiz-2_h14769
-76,Intel Core I5 12400F,NVIDIA RTX 3060 TI,16 GB,500 GB,22863,itopya.com,https://itopya.com/hype-mega_h14761
-77,AMD Ryzen 5 5600,AMD RX 6650-XT,16 GB,480 GB,21980,itopya.com,https://itopya.com/vesta-start_h14755
-78,Intel Core I3 10105F,NVIDIA RTX 3050,16 GB,500 GB,16121,tebilon.com,https://www.tebilon.com/intel-10105f-zotac-rtx3050-twin-edge-gigabyte-h510m-h-ud-kingston-500gb-kingston-16gb/
-79,Intel Core I5 12400F,NVIDIA RTX 3060,16 GB,480 GB,17421,tebilon.com,https://www.tebilon.com/intel-12400f-asus-dual-rtx3060-o12g-v2-h610m-k-wd-480gb-xpg-16gb-9/
-80,Intel Core I3 12100F,NVIDIA RTX 3060,16 GB,480 GB,15942,tebilon.com,https://www.tebilon.com/intel-12400f-asus-dual-rtx3060-o12g-v2-h610m-k-wd-480gb-xpg-16gb/
-81,AMD Ryzen 5 5500,NVIDIA RTX 3060,16 GB,480 GB,15567,tebilon.com,https://www.tebilon.com/amd-5500-asus-dual-rtx3060-o12g-v2-prime-b450m-a-ii-wd-480gb-xpg-16gb/
-82,AMD Ryzen 5 7700X,NVIDIA RTX 4090,32 GB,1 TB,75271,tebilon.com,https://www.tebilon.com/amd-r7-7700x-zotac-rtx4090-gigabyte-b650m-ds3h-kingston-1tb-32gb/
-83,AMD Ryzen 5 4500,AMD RX 6500-XT,16 GB,480 GB,8998,tebilon.com,https://www.tebilon.com/amd-r5-4500-msi-rx-6500-xt-mech-oc-a320m-pro-vh-wd-480gb-xpg-16gb/
-84,AMD Ryzen 5 7600X,NVIDIA RTX 3070,16 GB,500 GB,33469,tebilon.com,https://www.tebilon.com/amd-7600x-msi-rtx-3070-ventus-oc-mag-b650m-mortar-wifi-msi-500gb-kingston-16gb/
-85,AMD Ryzen 5 7600X,NVIDIA RTX 3060,16 GB,500 GB,28835,tebilon.com,https://www.tebilon.com/amd-7600x-msi-rtx-3060-ventus-oc-mag-b650m-mortar-wifi-msi-500gb-kingston-16gb/
-86,Intel Core I3 12100F,NVIDIA RTX 3060,16 GB,480 GB,16019,tebilon.com,https://www.tebilon.com/intel-12100f-rtx-3060-ventus-oc-pro-h610m-b-ddr4-wd-green-xpg-16gb/
-87,Intel Core I5 12700F,NVIDIA RTX 3070,16 GB,500 GB,29126,tebilon.com,https://www.tebilon.com/intel-12700f-msi-rtx-3070-ventus-2x-oc-pro-b660m-a-wifi-ddr4-500gb-kingston-16gb/
-88,Intel Core I5 12400F,NVIDIA RTX 3070,16 GB,500 GB,25274,tebilon.com,https://www.tebilon.com/intel-12400f-msi-rtx-3070-ventus-2x-oc-pro-b660m-p-ddr4-500gb-kingston-16gb/
-89,AMD Ryzen 5 5600,NVIDIA RTX 3070,16 GB,500 GB,23795,tebilon.com,https://www.tebilon.com/amd-5600-msi-rtx-3070-ventus-2x-oc-b550m-pro-vdh-500gb-ssd-kingston-16gb/
-90,Intel Core I3 12100F,NVIDIA RTX 3060 TI,16 GB,480 GB,21366,tebilon.com,https://www.tebilon.com/intel-12100f-asus-dual-rtx3060ti-h610m-k-wd-480gb-kingston-16gb/
-91,Intel Core I5 12400F,AMD RX 6700-XT,16 GB,480 GB,21184,tebilon.com,https://www.tebilon.com/intel-12400f-asus-dual-rx6700xt-prime-h610m-k-wd-green-ssd-kingston-16gb/
-92,Intel Core I5 12400F,AMD RX 6600,16 GB,480 GB,14685,tebilon.com,https://www.tebilon.com/intel-12400f-asus-dual-rx6600-prime-h610m-k-wd-green-ssd-xpg-16gb/
-93,Intel Core I3 12100F,AMD RX 6600,16 GB,480 GB,12820,tebilon.com,https://www.tebilon.com/intel-12100f-asus-dual-rx6600-prime-h610m-k-wd-green-ssd-xpg-16gb/
-94,AMD Ryzen 5 5600,AMD RX 6700-XT,16 GB,480 GB,18910,tebilon.com,https://www.tebilon.com/amd-5600-asus-dual-rx6700xt-12g-prime-b450m-a-ii-wd-green-xpg-16gb/
-95,AMD Ryzen 5 5500,NVIDIA RTX 3060,16 GB,480 GB,14497,tebilon.com,https://www.tebilon.com/amd-5500-msi-rtx3060-ventus-12g-oc-a520m-a-pro-wd-green-ssd-xpg-16gb/
-96,AMD Ryzen 3 3200G,-,8 GB,240 GB,5209,tebilon.com,https://www.tebilon.com/amd-ryzen-3-3200g-msi-a320m-a-pro-wd-240gb-ssd-kingston-8gb-ram/
-97,AMD Ryzen 5 7700X,NVIDIA RTX 4080,32 GB,1 TB,67204,tebilon.com,https://www.tebilon.com/amd-7700x-gigabyte-rtx-4080-b650-aorus-elite-ax-kingston-1tb-kington/
-98,AMD Ryzen 5 5500,AMD RX 6600,16 GB,480 GB,12003,tebilon.com,https://www.tebilon.com/amd-5500-asus-dual-rx-6600-asus-prime-anakart-wd-green-ssd-16gb-ram/
-99,Intel Core I3 12100F,NVIDIA RTX 3060,16 GB,480 GB,20014,tebilon.com,https://www.tebilon.com/intel-12100f-asus-tuf-3060-o12g-h610m-k-d4-wd-green-ssd-16gb-ram/
-100,AMD Ryzen 5 5600,AMD RX 6700,16 GB,480 GB,15299,tebilon.com,https://www.tebilon.com/amd-5600-sapphire-rx-6700-asus-prime-anakart-wd-nvme-ssd-kingston-16gb/
-101,AMD Ryzen 5 5600,NVIDIA RTX 3060,16 GB,480 GB,19220,tebilon.com,https://www.tebilon.com/amd-5600-tuf-rtx3060-o12g-prime-b450m-a-ii-wd-480gb-kingston-16gb/
-102,AMD Ryzen 5 5600,AMD RX 6600,16 GB,480 GB,13401,tebilon.com,https://www.tebilon.com/amd-5600-asus-dual-rx-6600-a320m-k-wd-480gb-kingston-16gb/
-103,Intel Core I3 10105F,AMD RX 6600,16 GB,480 GB,12201,tebilon.com,https://www.tebilon.com/intel-10105f-asus-dual-rx-6600-h510m-k-wd-ssd-16gb-ram/
-104,Intel Core I5 11400F,AMD RX 6600,16 GB,480 GB,13414,tebilon.com,https://www.tebilon.com/intel-11400f-asus-dual-rx-6600-h510m-k-wd-ssd-16gb-ram/
-105,AMD Ryzen 5 5500,AMD RX 6600,16 GB,500 GB,12599,tebilon.com,https://www.tebilon.com/amd-5500-asus-dual-rx-6600-prime-b450m-a-ii-kingston-500gb-16gb-ram/
-106,AMD Ryzen 5 5600,AMD RX 6600,16 GB,512 GB,13304,tebilon.com,https://www.tebilon.com/amd-5600-xfx-rx6600-asus-prime-b450m-k-ii-adata-512gb-xpg-16gb/
-107,Intel Core I5 12400F,AMD RX 6600,16 GB,500 GB,16004,tebilon.com,https://www.tebilon.com/intel-12400f-xfx-rx-6600-gigabyte-h610m-h-kingston-500gb-16gb/
-108,Intel Core I3 10105F,AMD RX 6600,16 GB,500 GB,11998,tebilon.com,https://www.tebilon.com/intel-10105f-xfx-rx-6600-gigabyte-h410-kingston-500gb-16gb/
-109,Intel Core I3 12100F,AMD RX 6600,16 GB,512 GB,13216,tebilon.com,https://www.tebilon.com/intel-12100f-xfx-rx-6600-gigabyte-h610m-h-xpg-512gb-xpg-16gb/
-110,Intel Core I5 11400F,AMD RX 6600,16 GB,512 GB,13392,tebilon.com,https://www.tebilon.com/intel-11400f-xfx-rx-6600-gigabyte-h510m-h-adata-512gb-xpg-16gb-ram/
-111,AMD Ryzen 5 7600X,NVIDIA RTX 3070,32 GB,1 TB,41309,tebilon.com,https://www.tebilon.com/amd-7600x-msi-rtx-3070ti-ventus-3x-msi-pro-x670-p-wifi-msi-1tb-kingston-32gb-ram/
-112,AMD Ryzen 5 5600,AMD RX 6700,16 GB,512 GB,16152,tebilon.com,https://www.tebilon.com/amd-5600mpk-sapphire-rx6700-gigabyte-b450m-s2h-xpg-512gb-xpg-16gb/
-113,AMD Ryzen 5 5500,AMD RX 6600,16 GB,480 GB,12268,tebilon.com,https://www.tebilon.com/amd-5500-xfx-rx-6600-asus-prime-b450m-k-ii-kingston-500gb-16gb-ram/
-114,AMD Ryzen 5 4500,AMD RX 6500-XT,16 GB,500 GB,11169,tebilon.com,https://www.tebilon.com/amd-r5-4500-msi-rx-6500-xt-mech-2x-4g-oc-a520m-pro-adata-500gb-xpg-16gb/
-115,Intel Core I3 12100F,AMD RX 6700,16 GB,480 GB,14409,tebilon.com,https://www.tebilon.com/intel-12100f-sapphire-rx-6700-pulse-gigabyte-h610m-wd-ssd-kingston-16gb/
-116,AMD Ryzen 5 5600,AMD RX 6700,16 GB,512 GB,15040,tebilon.com,https://www.tebilon.com/amd-r5-5600-sapphire-rx-6700-10gb-prime-b450m-k-ii-xpg-512gb-xpg-16gb-ram/
-117,AMD Ryzen 5 5500,NVIDIA RTX 3050,16 GB,500 GB,13600,tebilon.com,https://www.tebilon.com/amd-r5-5500-asus-dual-rtx3050-o8g-prime-b450m-k-kingston-500gb-16gb-ram/
-118,AMD Ryzen 5 5500,NVIDIA RTX 3060,16 GB,500 GB,17220,tebilon.com,https://www.tebilon.com/amd-5500-rtx-3060-ventus-2x-12g-a520m-a-pro-msi-500gb-ssd-kingston-16gb-ram/
-119,Intel Core I5 12400F,NVIDIA RTX 3060 TI,16 GB,500 GB,23124,tebilon.com,https://www.tebilon.com/intel-12400f-msi-rtx3060ti-ventus-2x-ocv1-pro-h610m-b-ddr4-msi-500gb-kingston-16gb/
-120,Intel Core I3 12100F,NVIDIA RTX 3060,8 GB,500 GB,18852,tebilon.com,https://www.tebilon.com/intel-12100f-rtx-3060-ventus-2x-12g-pro-h610m-b-ddr4-msi-500gb-ssd-kingston-ram/
-121,Intel Core I5 12400F,NVIDIA RTX 3070 TI,16 GB,1 TB,29068,tebilon.com,https://www.tebilon.com/intel-12400f-msi-rtx-3070-ti-ventus-3x-8g-mag-b660-tomahawk-wifi-ddr4-spatium-m470-1tb-16gb/
-122,Intel Core I3 12100F,AMD RX 6600,16 GB,500 GB,13559,tebilon.com,https://www.tebilon.com/intel-12100f-sapphire-rx-6600-pulse-gigabyte-h610m-h-wd-500gb-crucial-16gb/
-123,Intel Core I5 12600K,NVIDIA RTX 3070 TI,16 GB,1 TB,38837,tebilon.com,https://www.tebilon.com/intel-12600k-msi-rtx-3070-ti-ventus-3x-8g-mag-b660-tomahawk-wifi-ddr4-spatium-m470-1tb-16gb/
-124,AMD Ryzen 5 5650,-,16 GB,500 GB,10699,tebilon.com,https://www.tebilon.com/amd-r5-5650ge-apu-asus-prime-b450m-k-ii-wd-500gb-blue-ssd-crucial-16gb/
-125,Intel Core I3 12100F,NVIDIA RTX 3050,16 GB,500 GB,14372,tebilon.com,https://www.tebilon.com/intel-i3-12100f-dual-rtx3050-o8g-prime-h610m-k-kingston-500gb-xpg-16gb/
-126,Intel Core I5 11400F,NVIDIA RTX 3050,16 GB,480 GB,14760,tebilon.com,https://www.tebilon.com/intel-i5-11400f-dual-rtx3050-o8g-prime-h510m-k-kioxia-480gb-xpg-16gb/
-127,Intel Core I5 11400F,AMD RX 6600,16 GB,500 GB,19168,tebilon.com,https://www.tebilon.com/intel-i5-11400f-sapphire-rx6600-pulse-gigabyte-h510m-h-wd-500gb-xpg-16gb/
-128,AMD Ryzen 5 5600,AMD RX 6600,16 GB,500 GB,13313,tebilon.com,https://www.tebilon.com/amd-r5-5600-sapphire-rx-6600-pulse-b550m-a-pro-wd-500gb-ssd-kingston-16gb/
-129,Intel Core I3 12100F,NVIDIA RTX 3060,16 GB,500 GB,17123,tebilon.com,https://www.tebilon.com/intel-12100f-zotac-rtx-3060-twin-edge-gigabyte-h610m-h-wd-500gb-crucial-16gb/
-130,AMD Ryzen 3 4100,-,8 GB,480 GB,10545,tebilon.com,https://www.tebilon.com/amd-4100-msi-a320m-a-pro-sapphire-rx6500xt-kioxia-480gb-xpg-8gb/
-131,AMD Ryzen 5 5700X,NVIDIA RTX 3060 TI,16 GB,500 GB,26504,tebilon.com,https://www.tebilon.com/amd-r7-5700x-msi-rtx-3060ti-ventus-2x-b550m-pro-kingston-1tb-crucial-16gb/
-132,AMD Ryzen 5 5700X,NVIDIA RTX 3060,16 GB,1 TB,22204,tebilon.com,https://www.tebilon.com/amd-r7-5700x-zotac-rtx3060-twin-edge-b550m-a-pro-kingston-1tb-kingston-16gb/
-133,AMD Ryzen 5 5600,NVIDIA RTX 3060,16 GB,500 GB,22453,tebilon.com,https://www.tebilon.com/amd-r5-5600-msi-rtx-3060-ventus-2x-12g-oc-b450m-a-pro-max-msi-500gb-crucial-16gb/
-134,AMD Ryzen 5 5600,NVIDIA RTX 3060,16 GB,500 GB,17070,tebilon.com,https://www.tebilon.com/amd-5600-zotac-rtx-3060-twin-edge-msi-b450m-a-pro-max-wd-500gb-xpg-16gb/
-135,Intel Core I5 12400F,NVIDIA RTX 3050,16 GB,500 GB,19418,tebilon.com,https://www.tebilon.com/intel-12400f-zotac-rtx3050-twin-gigabyte-h610m-h-xpg-512gb-xpg-16gb/
-136,AMD Ryzen 5 5500,NVIDIA RTX 3050,16 GB,500 GB,16439,tebilon.com,https://www.tebilon.com/amd-r5-5500-msi-rtx-3050-gaming-x-pro-h610m-b-ddr4-wd-500gb-crucial-16gb/
-137,Intel Core I3 12100F,NVIDIA RTX 3060,16 GB,500 GB,16505,tebilon.com,https://www.tebilon.com/12100f-zotac-rtx3060-twin-edge-gigabyte-h610m-h-wd-500gb-crucial-16gb/
-138,Intel Core I5 12400F,NVIDIA RTX 3060,16 GB,500 GB,23321,tebilon.com,https://www.tebilon.com/intel-12400f-msi-rtx3060-gaming-x-h610m-g-ddr4-msi-500gb-crucial-16gb/
-139,AMD Ryzen 3 3200G,-,8 GB,240 GB,5757,tebilon.com,https://www.tebilon.com/amd-r3-3200g-apu-msi-a320m-a-pro-wd-240gb-crucial-8gb-ram/
-140,Intel Core I5 10400F,NVIDIA RTX 3050,16 GB,500 GB,17806,tebilon.com,https://www.tebilon.com/intel-10400f-msi-rtx3050-gaming-x-8g-b460m-a-pro-kingston-500gb-crucial-16gb/
-141,Intel Core I5 12400F,NVIDIA RTX 3060,16 GB,500 GB,20675,tebilon.com,https://www.tebilon.com/12400f-zotac-rtx3060-twin-edge-gigabyte-h610m-h-ddr4-kingston-500gb-16gb/
-142,Intel Core I5 12400F,NVIDIA RTX 3050,16 GB,500 GB,21367,tebilon.com,https://www.tebilon.com/12400f-gigabyte-rtx3050-gaming-oc-h610m-h-ddr4-wd-500gb-crucial-16gb/
-143,Intel Core I3 12100F,NVIDIA RTX 3050,16 GB,500 GB,18800,tebilon.com,https://www.tebilon.com/intel-12100f-gigabyte-rtx3050-gaming-oc-gigabyte-h610m-h-ddr4-wd-500gb-crucial-16gb/
-144,AMD Ryzen 5 5500,NVIDIA RTX 3060,16 GB,500 GB,15806,tebilon.com,https://www.tebilon.com/amd-r5-5500-zotac-rtx-3060-twin-edge-gigabyte-b450m-s2h-wd-500gb-crucial-16gb/
-145,AMD Ryzen 5 5500,NVIDIA RTX 3060,16 GB,500 GB,16424,tebilon.com,https://www.tebilon.com/amd-r5-5500-zotac-rtx-3060-twin-edge-gigabyte-b450m-h-kingston-500gb-crucial-16gb/
-146,Intel Core I3 10100F,NVIDIA RTX 3050,16 GB,500 GB,17599,tebilon.com,https://www.tebilon.com/intel-10100f-gigabyte-rtx-3050-gaming-oc-h510m-h-kingston-500gb-crucial-16gb/
-147,AMD Ryzen 3 4100,NVIDIA RTX 3050,16 GB,500 GB,18546,tebilon.com,https://www.tebilon.com/amd-r3-4100-gtx-3050-gaming-oc-b450m-h-kingston-500gb-crucial-16gb/
-148,AMD Ryzen 5 5600,NVIDIA RTX 3060,16 GB,500 GB,18273,tebilon.com,https://www.tebilon.com/amd-r5-5600-msi-rtx-3060-ventus-xs-oc-b550m-a-pro-msi-500gb-crucial-16gb/
-149,AMD Ryzen 5 5600,NVIDIA RTX 3060,16 GB,500 GB,19896,tebilon.com,https://www.tebilon.com/amd-r5-5600-msi-rtx-3060-gaming-x-12g-b550m-pro-msi-500gb-ssd-crucial-16gb/
-150,AMD Ryzen 5 5600,NVIDIA RTX 3060,16 GB,500 GB,19956,tebilon.com,https://www.tebilon.com/amd-r5-5600-asus-tuf-rtx3060-o12g-v2-gaming-prime-b450m-k-ii-wd-500gb-corsair-16gb/
-151,AMD Ryzen 3 4100,NVIDIA RTX 3050,16 GB,500 GB,16044,tebilon.com,https://www.tebilon.com/amd-4100-rtx-3050-ventus-xs-oc-b450m-a-pro-max-kingston-500gb-16gb-ram/
-152,AMD Ryzen 5 4500,NVIDIA RTX 3050,16 GB,500 GB,15673,tebilon.com,https://www.tebilon.com/amd-r5-4500-msi-rtx-3050-gaming-x-b450m-a-pro-max-kingston-500gb-crucial-16gb/
-153,AMD Ryzen 5 3600,NVIDIA RTX 3050,16 GB,500 GB,18012,tebilon.com,https://www.tebilon.com/amd-r5-3600-msi-rtx3050-gaming-x-a320m-a-pro-wd-500gb-crucial-16gb/
-154,AMD Ryzen 3 4100,NVIDIA RTX 3050,16 GB,500 GB,15605,tebilon.com,https://www.tebilon.com/amd-r3-4100-msi-rtx-3050-ventus-2x-8g-a320m-a-pro-kingston-500gb-16gb/
-155,AMD Ryzen 3 4100,AMD RX 6500-XT,16 GB,480 GB,11564,tebilon.com,https://www.tebilon.com/amd-r3-4100-msi-rx-6500-xt-mech-2x-4g-ocmsi-a320m-a-pro-kioxia-480gb-crucial-16gb/
-156,Intel Core I3 12100F,NVIDIA RTX 3050,16 GB,500 GB,18978,tebilon.com,https://www.tebilon.com/intel-12100f-msi-rtx-3050-gaming-x-8g-pro-h610m-g-ddr4-wd-500gb-crucial-16gb/
-157,Intel Core I5 12400F,NVIDIA RTX 3060,16 GB,500 GB,22198,tebilon.com,https://www.tebilon.com/intel-12400f-msi-rtx-3060-ventus-oc-pro-h610m-g-ddr4-wd-500gb-crucial-16gb/
-158,Intel Core I3 10100F,AMD RX 6500-XT,8 GB,480 GB,11608,tebilon.com,https://www.tebilon.com/intel-10100f-msi-rx-6500-xt-mech-2x-4g-oc-h510m-a-pro-crucial-8gb-kioxia-480gb-/
-159,Intel Core I5 11400F,NVIDIA RTX 3050,16 GB,500 GB,18725,tebilon.com,https://www.tebilon.com/intel-11400f-msi-rtx-3050-ventus-2x-8g-h510m-a-pro-corsair-16gb-kingston-500gb/
-160,Intel Core I5 11400F,NVIDIA RTX 3050,16 GB,500 GB,18457,tebilon.com,https://www.tebilon.com/intel-11400f-msi-rtx-3050-gaming-x-8g-h510m-pro-e-crucial-16gb-wd-500gb/
-161,Intel Core I5 11400F,NVIDIA RTX 3060,16 GB,500 GB,19094,tebilon.com,https://www.tebilon.com/intel-11400f-msi-rtx3060-ventus-2x-12g-oc-b560m-a-pro-kingston-500gb-crucial-16gb/
-162,Intel Core I5 11400F,NVIDIA RTX 3050,16 GB,500 GB,18697,tebilon.com,https://www.tebilon.com/intel-11400f-gigabyte-rtx3050-gaming-oc-h510m-h-kingston-500gb-crucial-16gb/
-163,AMD Ryzen 5 5600X,NVIDIA RTX 3060 TI,16 GB,500 GB,22259,tebilon.com,https://www.tebilon.com/amd-5600x-rtx-3060-ti-ventus-2x8g-ocv1-lhr-b550m-pro-kingston-500gb-16gb-ram/
-164,AMD Ryzen 5 5600X,NVIDIA RTX 3060,16 GB,500 GB,19852,tebilon.com,https://www.tebilon.com/amd-5600x-msi-rtx3060-gaming-x-12g-b550m-a-pro-kingston-16gb-500gb/
+16,Intel Core I5 12400F,NVIDIA RTX 3060 TI,16 GB,500 GB,20999,gaming.gen.tr,https://www.gaming.gen.tr/urun/200889/blade-12400f-intel-i5-12400f-asus-geforce-rtx-3060-ti-dual-v2-oc-8gb-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
+17,Intel Core I5 12400F,NVIDIA RTX 3060 TI,16 GB,500 GB,19999,gaming.gen.tr,https://www.gaming.gen.tr/urun/200880/anna-gardas-intel-i5-12400f-asus-geforce-rtx-3060-ti-dual-v2-oc-8gb-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
+18,Intel Core I3 12100F,NVIDIA RTX 3060 TI,16 GB,500 GB,17699,gaming.gen.tr,https://www.gaming.gen.tr/urun/200864/holmes-itachi-intel-i3-12100f-asus-geforce-rtx-3060-ti-dual-v2-oc-8gb-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
+19,AMD Ryzen 5 5500,AMD RX 6600,16 GB,500 GB,12499,gaming.gen.tr,https://www.gaming.gen.tr/urun/195650/haqqus-amd-amd-ryzen-5-5500-msi-radeon-rx-6600-mech-2x-8gb-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
+20,Intel Core I3 12100F,AMD RX 6600,16 GB,500 GB,12498,gaming.gen.tr,https://www.gaming.gen.tr/urun/195643/haqqus-intel-intel-i3-12100f-msi-radeon-rx-6600-mech-2x-8gb-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
+21,INTEL i5-12500,NVIDIA RTX 3070,16 GB,500 GB,23999,gaming.gen.tr,https://www.gaming.gen.tr/urun/193041/studio-rtx3070-intel-i5-12500-asus-dual-geforce-rtx-3070-v2-oc-8gb-16gb-ram-512gb-m-2-ssd-gaming-bilgisayar/
+22,Intel Core I5 12400F,NVIDIA RTX 3060,16 GB,500 GB,19999,gaming.gen.tr,https://www.gaming.gen.tr/urun/193002/studio-rtx3060-intel-i5-12400f-asus-geforce-dual-rtx-3060-v2-12gb-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
+23,Intel Core I3 12100F,AMD RX 6700-XT,16 GB,500 GB,14599,gaming.gen.tr,https://www.gaming.gen.tr/urun/176464/mantis-12400f-intel-i5-12400f-asus-dual-geforce-rtx-3070-si-8gb-16gb-ram-512gb-m-2-ssd-gaming-bilgisayar/
+24,Intel Core I3 10105F,NVIDIA RTX 3050,16 GB,500 GB,16821,gaming.gen.tr,https://www.gaming.gen.tr/urun/167755/cyber-3050-intel-i3-10105f-asus-dual-geforce-rtx-3050-oc-8gb-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
+25,Intel Core I5 12400F,NVIDIA RTX 3060,16 GB,500 GB,16799,gaming.gen.tr,https://www.gaming.gen.tr/urun/167625/nova-3060-intel-i5-12400f-asus-geforce-dual-rtx-3060-v2-12gb-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
+26,Intel Core I3 10105F,NVIDIA GTX 1660 TI,16 GB,500 GB,14399,gaming.gen.tr,https://www.gaming.gen.tr/urun/166564/tezcan-racing-intel-i3-10105f-asus-tuf-geforce-gtx-1660-ti-evo-6gb-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
+27,Intel Core I3 12100F,NVIDIA RTX 3050,16 GB,500 GB,14599,gaming.gen.tr,https://www.gaming.gen.tr/urun/160317/nova-3050-intel-i3-12100f-asus-dual-geforce-rtx-3050-oc-8gb-gddr6-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
+28,AMD Ryzen 5 4500,NVIDIA RTX 3050,16 GB,500 GB,14499,gaming.gen.tr,https://www.gaming.gen.tr/urun/160312/ultima-3050-amd-ryzen-5-4500-asus-dual-geforce-rtx-3050-oc-8gb-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
+29,Intel Core I3 10105F,NVIDIA GTX 1660,16 GB,500 GB,12469,gaming.gen.tr,https://www.gaming.gen.tr/urun/158906/nova-1660-intel-i5-10400f-asus-phoenix-geforce-gtx-1660-oc-6gb-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
+30,AMD Ryzen 5 5500,AMD RX 6600,16 GB,500 GB,11999,gaming.gen.tr,https://www.gaming.gen.tr/urun/145453/blade-6600-amd-ryzen-5-5500-asus-radeon-dual-rx-6600-8gb-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
+31,Intel Core I3 12100F,NVIDIA GTX 1660,16 GB,500 GB,12799,gaming.gen.tr,https://www.gaming.gen.tr/urun/131904/cyber-1660s-amd-ryzen-3-4100-asus-dual-geforce-gtx-1660-super-oc-evo-6gb-16gb-ram-512gb-m-2-ssd-gaming-bilgisayar/
+32,AMD Ryzen 5 5500,NVIDIA RTX 3060,16 GB,500 GB,13999,gaming.gen.tr,https://www.gaming.gen.tr/urun/107991/ultima-5500-amd-ryzen-5-5500-asus-geforce-dual-rtx-3060-v2-oc-12gb-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
+33,AMD Ryzen 5 5500,NVIDIA RTX 3060 TI,16 GB,500 GB,16299,gaming.gen.tr,https://www.gaming.gen.tr/urun/95747/ultima-3060ti-amd-ryzen-5-5500-asus-geforce-rtx-3060-ti-dual-v2-oc-8gb-16gb-ram-512gb-m-2-ssd-gaming-bilgisayar/
+34,Intel Core I3 12100F,NVIDIA RTX 3060,16 GB,500 GB,14899,gaming.gen.tr,https://www.gaming.gen.tr/urun/68948/ultima-12100f-intel-i3-12100f-asus-geforce-dual-rtx-3060-v2-oc-12gb-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
+35,Intel Core I5 12400F,AMD RX 6700-XT,16 GB,500 GB,19999,gaming.gen.tr,https://www.gaming.gen.tr/urun/64956/nova-6700xt-intel-i5-12400f-asus-radeon-rx-6700-xt-dual-12gb-oc-gddr6-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
+36,AMD Ryzen 5 5600X,NVIDIA RTX 3060,16 GB,500 GB,15999,gaming.gen.tr,https://www.gaming.gen.tr/urun/49945/ultima-3060-amd-ryzen-5-5600x-asus-geforce-dual-rtx-3060-v2-oc-12gb-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
+37,AMD Ryzen 5 3600,NVIDIA GTX 1660 TI,16 GB,500 GB,15799,gaming.gen.tr,https://www.gaming.gen.tr/urun/47836/cyber-3600-amd-ryzen-5-3600-asus-tuf-geforce-gtx-1660-ti-evo-6gb-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
+38,AMD Ryzen 5 5600X,NVIDIA RTX 3070,16 GB,500 GB,22399,gaming.gen.tr,https://www.gaming.gen.tr/urun/27521/ultima-3070-amd-ryzen-5-5600-asus-dual-geforce-rtx-3070-v2-oc-8gb-16gb-ram-500-gb-m-2-ssd-gaming-bilgisayar/
+39,Intel Core I3 12100F,NVIDIA GTX 1660 TI,16 GB,500 GB,15199,gaming.gen.tr,https://www.gaming.gen.tr/urun/26558/mantis-1660ti-intel-i3-12100f-asus-tuf-gaming-geforce-gtx-1660-ti-evo-oc-6gb-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
+40,Intel Core I3 12100F,NVIDIA GTX 1660,16 GB,500 GB,13369,gaming.gen.tr,https://www.gaming.gen.tr/urun/6244/cyber-1660-intel-core-i3-10105f-asus-phoenix-geforce-gtx-1660-oc-6gb-16-gb-ram-500gb-ssd-gaming-bilgisayar/
+41,Intel Core I3 10105F,NVIDIA GTX 1660,16 GB,500 GB,11499,gaming.gen.tr,https://www.gaming.gen.tr/urun/5985/nova-1660s-intel-i3-10105f-asus-tuf-geforce-gtx-1660-super-6gb-16gb-ram-500gb-m-2-ssd-gaming-bilgisayar/
+42,AMD Ryzen 5 5600,NVIDIA RTX 3060,16 GB,500 GB,16999,itopya.com,https://itopya.com/teknohayat-1_h20922
+43,Intel Core I3 12100F,NVIDIA RTX 2060,16 GB,480 GB,17625,itopya.com,https://itopya.com/hugola-orchestra_h20463
+44,Intel Core I3 10105F,NVIDIA GTX 1650,16 GB,480 GB,12218,itopya.com,https://itopya.com/hugola-symphony_h20462
+45,Intel Core I3 12100F,NVIDIA RTX 3050,16 GB,480 GB,15348,itopya.com,https://itopya.com/tunca-star_h20460
+46,AMD Ryzen 5 5500,NVIDIA RTX 3060,16 GB,500 GB,17347,itopya.com,https://itopya.com/jrokez-high_h20399
+47,AMD Ryzen 5 5500,NVIDIA RTX 3060,16 GB,500 GB,15943,itopya.com,https://itopya.com/edamilka-milka_h20386
+48,AMD Ryzen 5 5500,NVIDIA RTX 3050,16 GB,500 GB,14593,itopya.com,https://itopya.com/kronos-air_h20373
+49,Intel Core I3 12100F,NVIDIA RTX 3050,16 GB,500 GB,14791,itopya.com,https://itopya.com/alpha-plus_h20312
+50,Intel Core I3 12100F,NVIDIA RTX 3060,16 GB,500 GB,17900,itopya.com,https://itopya.com/omega-plus_h20311
+51,Intel Core I5 12400F,NVIDIA RTX 3060 TI,16 GB,500 GB,22961,itopya.com,https://itopya.com/alpha-time_h20153
+52,AMD Ryzen 5 7600X,NVIDIA RTX 4080,32 GB,1 TB,69715,itopya.com,https://itopya.com/nvidia-studio-3_h20079
+53,AMD Ryzen 5 5500,NVIDIA RTX 3050,16 GB,500 GB,16827,itopya.com,https://itopya.com/nvidia-studio-2_h20078
+54,Intel Core I5 12400F,NVIDIA RTX 3070 TI,16 GB,500 GB,26917,itopya.com,https://itopya.com/nvidia-studio-1_h20077
+55,Intel Core I3 12100F,NVIDIA GTX 1660,16 GB,500 GB,15677,itopya.com,https://itopya.com/omega-s_h19894
+56,Intel Core I5 12400F,AMD RX 6800,16 GB,500 GB,22649,itopya.com,https://itopya.com/alpha-one_h19837
+57,AMD Ryzen 5 5600,NVIDIA RTX 3060,16 GB,500 GB,21973,itopya.com,https://itopya.com/alpha-rules_h19746
+58,AMD Ryzen 5 4500,NVIDIA GTX 1650,16 GB,500 GB,10947,itopya.com,https://itopya.com/dh-lion_h19719
+59,Intel Core I3 12100F,NVIDIA RTX 3050,16 GB,480 GB,14483,itopya.com,https://itopya.com/jahrein-nova_h18394
+60,AMD Ryzen 5 5500,NVIDIA GTX 1650,16 GB,500 GB,11976,itopya.com,https://itopya.com/adal-oberon_h18369
+61,Intel Core I3 12100F,NVIDIA RTX 3060,16 GB,500 GB,16515,itopya.com,https://itopya.com/jahrein-deimos_h18365
+62,Intel Core I5 12400F,NVIDIA RTX 3060,16 GB,500 GB,23036,itopya.com,https://itopya.com/jahrein-titan_h18363
+63,Intel Core I3 12100F,NVIDIA RTX 3060,16 GB,500 GB,20731,itopya.com,https://itopya.com/dh-tiger_h18264
+64,Intel Core I5 12400F,NVIDIA RTX 3060 TI,16 GB,500 GB,23223,itopya.com,https://itopya.com/teknopanda-karakiz-3_h18185
+65,Intel Core I5 12400F,NVIDIA RTX 3070,16 GB,500 GB,23826,itopya.com,https://itopya.com/adal-creeper_h18172
+66,Intel Core I5 12400F,NVIDIA RTX 3070,16 GB,480 GB,25746,itopya.com,https://itopya.com/jrokez-pro_h17121
+67,Intel Core I5 12400F,NVIDIA RTX 3070 TI,16 GB,480 GB,28773,itopya.com,https://itopya.com/hype-duo_h17035
+68,Intel Core I9 12900K,NVIDIA RTX 4080,32 GB,1 TB,77119,itopya.com,https://itopya.com/engineer-master_h16785
+69,Intel Core I9 12900K,NVIDIA RTX 3090,16 GB,1 TB,77580,itopya.com,https://itopya.com/render-ultra_h16783
+70,Intel Core I3 10105F,NVIDIA GTX 1050 TI,16 GB,500 GB,11626,itopya.com,https://itopya.com/bbl-rock_h16704
+71,Intel Core I5 12400F,AMD RX 6650-XT,16 GB,500 GB,24291,itopya.com,https://itopya.com/bbl-focus_h16699
+72,Intel Core I3 12100F,AMD RX 6500-XT,16 GB,500 GB,12390,itopya.com,https://itopya.com/efe-uygac-pro_h16695
+73,Intel Core I5 12400F,NVIDIA RTX 3060,16 GB,500 GB,27416,itopya.com,https://itopya.com/bbl-high_h16478
+74,AMD Ryzen 5 5500,AMD RX 6500-XT,16 GB,500 GB,12519,itopya.com,https://itopya.com/efe-uygac-shelby_h16454
+75,AMD Ryzen 5 5500,NVIDIA GTX 1650,16 GB,500 GB,12863,itopya.com,https://itopya.com/dh-entry_h16444
+76,Intel Core I3 12100F,NVIDIA RTX 3060,16 GB,512 GB,20712,itopya.com,https://itopya.com/vok-magic_h16442
+77,AMD Ryzen 5 4500,AMD RX 580,16 GB,480 GB,11010,itopya.com,https://itopya.com/burak-gungor-pro_h16242
+78,AMD Ryzen 5 5500,NVIDIA RTX 3060,16 GB,500 GB,18083,itopya.com,https://itopya.com/burak-gungor-ultra_h16227
+79,AMD Ryzen 5 5600,NVIDIA RTX 3060 TI,16 GB,500 GB,20448,itopya.com,https://itopya.com/teknopanda-karakiz-2_h14769
+80,Intel Core I5 12400F,NVIDIA RTX 3060 TI,16 GB,500 GB,22863,itopya.com,https://itopya.com/hype-mega_h14761
+81,AMD Ryzen 5 5600,AMD RX 6650-XT,16 GB,480 GB,21980,itopya.com,https://itopya.com/vesta-start_h14755
+82,Intel Core I3 10105F,NVIDIA RTX 3050,16 GB,500 GB,16121,tebilon.com,https://www.tebilon.com/intel-10105f-zotac-rtx3050-twin-edge-gigabyte-h510m-h-ud-kingston-500gb-kingston-16gb/
+83,Intel Core I5 12400F,NVIDIA RTX 3060,16 GB,480 GB,17421,tebilon.com,https://www.tebilon.com/intel-12400f-asus-dual-rtx3060-o12g-v2-h610m-k-wd-480gb-xpg-16gb-9/
+84,Intel Core I3 12100F,NVIDIA RTX 3060,16 GB,480 GB,15942,tebilon.com,https://www.tebilon.com/intel-12400f-asus-dual-rtx3060-o12g-v2-h610m-k-wd-480gb-xpg-16gb/
+85,AMD Ryzen 5 5500,NVIDIA RTX 3060,16 GB,480 GB,15567,tebilon.com,https://www.tebilon.com/amd-5500-asus-dual-rtx3060-o12g-v2-prime-b450m-a-ii-wd-480gb-xpg-16gb/
+86,AMD Ryzen 5 7700X,NVIDIA RTX 4090,32 GB,1 TB,75118,tebilon.com,https://www.tebilon.com/amd-r7-7700x-zotac-rtx4090-gigabyte-b650m-ds3h-kingston-1tb-32gb/
+87,AMD Ryzen 5 4500,AMD RX 6500-XT,16 GB,480 GB,8998,tebilon.com,https://www.tebilon.com/amd-r5-4500-msi-rx-6500-xt-mech-oc-a320m-pro-vh-wd-480gb-xpg-16gb/
+88,AMD Ryzen 5 7600X,NVIDIA RTX 3070,16 GB,500 GB,33306,tebilon.com,https://www.tebilon.com/amd-7600x-msi-rtx-3070-ventus-oc-mag-b650m-mortar-wifi-msi-500gb-kingston-16gb/
+89,AMD Ryzen 5 7600X,NVIDIA RTX 3060,16 GB,500 GB,28672,tebilon.com,https://www.tebilon.com/amd-7600x-msi-rtx-3060-ventus-oc-mag-b650m-mortar-wifi-msi-500gb-kingston-16gb/
+90,Intel Core I3 12100F,NVIDIA RTX 3060,16 GB,480 GB,16019,tebilon.com,https://www.tebilon.com/intel-12100f-rtx-3060-ventus-oc-pro-h610m-b-ddr4-wd-green-xpg-16gb/
+91,Intel Core I5 12700F,NVIDIA RTX 3070,16 GB,500 GB,29126,tebilon.com,https://www.tebilon.com/intel-12700f-msi-rtx-3070-ventus-2x-oc-pro-b660m-a-wifi-ddr4-500gb-kingston-16gb/
+92,Intel Core I5 12400F,NVIDIA RTX 3070,16 GB,500 GB,24873,tebilon.com,https://www.tebilon.com/intel-12400f-msi-rtx-3070-ventus-2x-oc-pro-b660m-p-ddr4-500gb-kingston-16gb/
+93,AMD Ryzen 5 5600,NVIDIA RTX 3070,16 GB,500 GB,23632,tebilon.com,https://www.tebilon.com/amd-5600-msi-rtx-3070-ventus-2x-oc-b550m-pro-vdh-500gb-ssd-kingston-16gb/
+94,Intel Core I3 12100F,NVIDIA RTX 3060 TI,16 GB,480 GB,21366,tebilon.com,https://www.tebilon.com/intel-12100f-asus-dual-rtx3060ti-h610m-k-wd-480gb-kingston-16gb/
+95,Intel Core I5 12400F,AMD RX 6700-XT,16 GB,480 GB,21184,tebilon.com,https://www.tebilon.com/intel-12400f-asus-dual-rx6700xt-prime-h610m-k-wd-green-ssd-kingston-16gb/
+96,Intel Core I5 12400F,AMD RX 6600,16 GB,480 GB,14685,tebilon.com,https://www.tebilon.com/intel-12400f-asus-dual-rx6600-prime-h610m-k-wd-green-ssd-xpg-16gb/
+97,Intel Core I3 12100F,AMD RX 6600,16 GB,480 GB,13206,tebilon.com,https://www.tebilon.com/intel-12100f-asus-dual-rx6600-prime-h610m-k-wd-green-ssd-xpg-16gb/
+98,AMD Ryzen 5 5600,AMD RX 6700-XT,16 GB,480 GB,18910,tebilon.com,https://www.tebilon.com/amd-5600-asus-dual-rx6700xt-12g-prime-b450m-a-ii-wd-green-xpg-16gb/
+99,AMD Ryzen 5 5500,NVIDIA RTX 3060,16 GB,480 GB,14497,tebilon.com,https://www.tebilon.com/amd-5500-msi-rtx3060-ventus-12g-oc-a520m-a-pro-wd-green-ssd-xpg-16gb/
+100,AMD Ryzen 3 3200G,-,8 GB,240 GB,5209,tebilon.com,https://www.tebilon.com/amd-ryzen-3-3200g-msi-a320m-a-pro-wd-240gb-ssd-kingston-8gb-ram/
+101,AMD Ryzen 5 7700X,NVIDIA RTX 4080,32 GB,1 TB,67204,tebilon.com,https://www.tebilon.com/amd-7700x-gigabyte-rtx-4080-b650-aorus-elite-ax-kingston-1tb-kington/
+102,AMD Ryzen 5 5500,AMD RX 6600,16 GB,480 GB,11783,tebilon.com,https://www.tebilon.com/amd-5500-asus-dual-rx-6600-asus-prime-anakart-wd-green-ssd-16gb-ram/
+103,Intel Core I3 12100F,NVIDIA RTX 3060,16 GB,480 GB,20014,tebilon.com,https://www.tebilon.com/intel-12100f-asus-tuf-3060-o12g-h610m-k-d4-wd-green-ssd-16gb-ram/
+104,AMD Ryzen 5 5600,AMD RX 6700,16 GB,480 GB,17112,tebilon.com,https://www.tebilon.com/amd-5600-sapphire-rx-6700-asus-prime-anakart-wd-nvme-ssd-kingston-16gb/
+105,AMD Ryzen 5 5600,NVIDIA RTX 3060,16 GB,480 GB,19220,tebilon.com,https://www.tebilon.com/amd-5600-tuf-rtx3060-o12g-prime-b450m-a-ii-wd-480gb-kingston-16gb/
+106,AMD Ryzen 5 5600,AMD RX 6600,16 GB,480 GB,13562,tebilon.com,https://www.tebilon.com/amd-5600-asus-dual-rx-6600-a320m-k-wd-480gb-kingston-16gb/
+107,Intel Core I3 10105F,AMD RX 6600,16 GB,480 GB,12469,tebilon.com,https://www.tebilon.com/intel-10105f-asus-dual-rx-6600-h510m-k-wd-ssd-16gb-ram/
+108,Intel Core I5 11400F,AMD RX 6600,16 GB,480 GB,13683,tebilon.com,https://www.tebilon.com/intel-11400f-asus-dual-rx-6600-h510m-k-wd-ssd-16gb-ram/
+109,AMD Ryzen 5 5500,AMD RX 6600,16 GB,500 GB,12599,tebilon.com,https://www.tebilon.com/amd-5500-asus-dual-rx-6600-prime-b450m-a-ii-kingston-500gb-16gb-ram/
+110,AMD Ryzen 5 5600,AMD RX 6600,16 GB,512 GB,13465,tebilon.com,https://www.tebilon.com/amd-5600-xfx-rx6600-asus-prime-b450m-k-ii-adata-512gb-xpg-16gb/
+111,Intel Core I5 12400F,AMD RX 6600,16 GB,500 GB,16004,tebilon.com,https://www.tebilon.com/intel-12400f-xfx-rx-6600-gigabyte-h610m-h-kingston-500gb-16gb/
+112,Intel Core I3 10105F,AMD RX 6600,16 GB,500 GB,11998,tebilon.com,https://www.tebilon.com/intel-10105f-xfx-rx-6600-gigabyte-h410-kingston-500gb-16gb/
+113,Intel Core I3 12100F,AMD RX 6600,16 GB,512 GB,13484,tebilon.com,https://www.tebilon.com/intel-12100f-xfx-rx-6600-gigabyte-h610m-h-xpg-512gb-xpg-16gb/
+114,Intel Core I5 11400F,AMD RX 6600,16 GB,512 GB,13661,tebilon.com,https://www.tebilon.com/intel-11400f-xfx-rx-6600-gigabyte-h510m-h-adata-512gb-xpg-16gb-ram/
+115,AMD Ryzen 5 7600X,NVIDIA RTX 3070,32 GB,1 TB,39844,tebilon.com,https://www.tebilon.com/amd-7600x-msi-rtx-3070ti-ventus-3x-msi-pro-x670-p-wifi-msi-1tb-kingston-32gb-ram/
+116,AMD Ryzen 5 5500,AMD RX 6600,16 GB,480 GB,12445,tebilon.com,https://www.tebilon.com/amd-5500-xfx-rx-6600-asus-prime-b450m-k-ii-kingston-500gb-16gb-ram/
+117,AMD Ryzen 5 4500,AMD RX 6500-XT,16 GB,500 GB,11169,tebilon.com,https://www.tebilon.com/amd-r5-4500-msi-rx-6500-xt-mech-2x-4g-oc-a520m-pro-adata-500gb-xpg-16gb/
+118,AMD Ryzen 5 5500,NVIDIA RTX 3050,16 GB,500 GB,13790,tebilon.com,https://www.tebilon.com/amd-r5-5500-asus-dual-rtx3050-o8g-prime-b450m-k-kingston-500gb-16gb-ram/
+119,AMD Ryzen 5 5500,NVIDIA RTX 3060,16 GB,500 GB,17220,tebilon.com,https://www.tebilon.com/amd-5500-rtx-3060-ventus-2x-12g-a520m-a-pro-msi-500gb-ssd-kingston-16gb-ram/
+120,Intel Core I5 12400F,NVIDIA RTX 3060 TI,16 GB,500 GB,22873,tebilon.com,https://www.tebilon.com/intel-12400f-msi-rtx3060ti-ventus-2x-ocv1-pro-h610m-b-ddr4-msi-500gb-kingston-16gb/
+121,Intel Core I3 12100F,NVIDIA RTX 3060,8 GB,500 GB,18601,tebilon.com,https://www.tebilon.com/intel-12100f-rtx-3060-ventus-2x-12g-pro-h610m-b-ddr4-msi-500gb-ssd-kingston-ram/
+122,Intel Core I5 12400F,NVIDIA RTX 3070 TI,16 GB,1 TB,28593,tebilon.com,https://www.tebilon.com/intel-12400f-msi-rtx-3070-ti-ventus-3x-8g-mag-b660-tomahawk-wifi-ddr4-spatium-m470-1tb-16gb/
+123,Intel Core I3 12100F,AMD RX 6600,16 GB,500 GB,13559,tebilon.com,https://www.tebilon.com/intel-12100f-sapphire-rx-6600-pulse-gigabyte-h610m-h-wd-500gb-crucial-16gb/
+124,Intel Core I5 12600K,NVIDIA RTX 3070 TI,16 GB,1 TB,37915,tebilon.com,https://www.tebilon.com/intel-12600k-msi-rtx-3070-ti-ventus-3x-8g-mag-b660-tomahawk-wifi-ddr4-spatium-m470-1tb-16gb/
+125,AMD Ryzen 5 5650,-,16 GB,500 GB,10227,tebilon.com,https://www.tebilon.com/amd-r5-5650ge-apu-asus-prime-b450m-k-ii-wd-500gb-blue-ssd-crucial-16gb/
+126,Intel Core I3 12100F,NVIDIA RTX 3050,16 GB,500 GB,14640,tebilon.com,https://www.tebilon.com/intel-i3-12100f-dual-rtx3050-o8g-prime-h610m-k-kingston-500gb-xpg-16gb/
+127,Intel Core I5 11400F,NVIDIA RTX 3050,16 GB,480 GB,15029,tebilon.com,https://www.tebilon.com/intel-i5-11400f-dual-rtx3050-o8g-prime-h510m-k-kioxia-480gb-xpg-16gb/
+128,Intel Core I5 11400F,AMD RX 6600,16 GB,500 GB,19168,tebilon.com,https://www.tebilon.com/intel-i5-11400f-sapphire-rx6600-pulse-gigabyte-h510m-h-wd-500gb-xpg-16gb/
+129,AMD Ryzen 5 5600,AMD RX 6600,16 GB,500 GB,13581,tebilon.com,https://www.tebilon.com/amd-r5-5600-sapphire-rx-6600-pulse-b550m-a-pro-wd-500gb-ssd-kingston-16gb/
+130,Intel Core I3 12100F,NVIDIA RTX 3060,16 GB,500 GB,17123,tebilon.com,https://www.tebilon.com/intel-12100f-zotac-rtx-3060-twin-edge-gigabyte-h610m-h-wd-500gb-crucial-16gb/
+131,AMD Ryzen 3 4100,-,8 GB,480 GB,10545,tebilon.com,https://www.tebilon.com/amd-4100-msi-a320m-a-pro-sapphire-rx6500xt-kioxia-480gb-xpg-8gb/
+132,AMD Ryzen 5 5700X,NVIDIA RTX 3060 TI,16 GB,500 GB,26234,tebilon.com,https://www.tebilon.com/amd-r7-5700x-msi-rtx-3060ti-ventus-2x-b550m-pro-kingston-1tb-crucial-16gb/
+133,AMD Ryzen 5 5700X,NVIDIA RTX 3060,16 GB,1 TB,22204,tebilon.com,https://www.tebilon.com/amd-r7-5700x-zotac-rtx3060-twin-edge-b550m-a-pro-kingston-1tb-kingston-16gb/
+134,AMD Ryzen 5 5600,NVIDIA RTX 3060,16 GB,500 GB,22052,tebilon.com,https://www.tebilon.com/amd-r5-5600-msi-rtx-3060-ventus-2x-12g-oc-b450m-a-pro-max-msi-500gb-crucial-16gb/
+135,AMD Ryzen 5 5600,NVIDIA RTX 3060,16 GB,500 GB,17070,tebilon.com,https://www.tebilon.com/amd-5600-zotac-rtx-3060-twin-edge-msi-b450m-a-pro-max-wd-500gb-xpg-16gb/
+136,Intel Core I5 12400F,NVIDIA RTX 3050,16 GB,500 GB,20080,tebilon.com,https://www.tebilon.com/intel-12400f-zotac-rtx3050-twin-gigabyte-h610m-h-xpg-512gb-xpg-16gb/
+137,AMD Ryzen 5 5500,NVIDIA RTX 3050,16 GB,500 GB,16439,tebilon.com,https://www.tebilon.com/amd-r5-5500-msi-rtx-3050-gaming-x-pro-h610m-b-ddr4-wd-500gb-crucial-16gb/
+138,Intel Core I3 12100F,NVIDIA RTX 3060,16 GB,500 GB,16505,tebilon.com,https://www.tebilon.com/12100f-zotac-rtx3060-twin-edge-gigabyte-h610m-h-wd-500gb-crucial-16gb/
+139,Intel Core I5 12400F,NVIDIA RTX 3060,16 GB,500 GB,22920,tebilon.com,https://www.tebilon.com/intel-12400f-msi-rtx3060-gaming-x-h610m-g-ddr4-msi-500gb-crucial-16gb/
+140,AMD Ryzen 3 3200G,-,8 GB,240 GB,5757,tebilon.com,https://www.tebilon.com/amd-r3-3200g-apu-msi-a320m-a-pro-wd-240gb-crucial-8gb-ram/
+141,Intel Core I5 10400F,NVIDIA RTX 3050,16 GB,500 GB,17202,tebilon.com,https://www.tebilon.com/intel-10400f-msi-rtx3050-gaming-x-8g-b460m-a-pro-kingston-500gb-crucial-16gb/
+142,Intel Core I5 12400F,NVIDIA RTX 3060,16 GB,500 GB,20675,tebilon.com,https://www.tebilon.com/12400f-zotac-rtx3060-twin-edge-gigabyte-h610m-h-ddr4-kingston-500gb-16gb/
+143,Intel Core I5 12400F,NVIDIA RTX 3050,16 GB,500 GB,21367,tebilon.com,https://www.tebilon.com/12400f-gigabyte-rtx3050-gaming-oc-h610m-h-ddr4-wd-500gb-crucial-16gb/
+144,Intel Core I3 12100F,NVIDIA RTX 3050,16 GB,500 GB,18800,tebilon.com,https://www.tebilon.com/intel-12100f-gigabyte-rtx3050-gaming-oc-gigabyte-h610m-h-ddr4-wd-500gb-crucial-16gb/
+145,AMD Ryzen 5 5500,NVIDIA RTX 3060,16 GB,500 GB,16075,tebilon.com,https://www.tebilon.com/amd-r5-5500-zotac-rtx-3060-twin-edge-gigabyte-b450m-s2h-wd-500gb-crucial-16gb/
+146,AMD Ryzen 5 5500,NVIDIA RTX 3060,16 GB,500 GB,16770,tebilon.com,https://www.tebilon.com/amd-r5-5500-zotac-rtx-3060-twin-edge-gigabyte-b450m-h-kingston-500gb-crucial-16gb/
+147,Intel Core I3 10100F,NVIDIA RTX 3050,16 GB,500 GB,17599,tebilon.com,https://www.tebilon.com/intel-10100f-gigabyte-rtx-3050-gaming-oc-h510m-h-kingston-500gb-crucial-16gb/
+148,AMD Ryzen 3 4100,NVIDIA RTX 3050,16 GB,500 GB,18546,tebilon.com,https://www.tebilon.com/amd-r3-4100-gtx-3050-gaming-oc-b450m-h-kingston-500gb-crucial-16gb/
+149,AMD Ryzen 5 5600,NVIDIA RTX 3060,16 GB,500 GB,18273,tebilon.com,https://www.tebilon.com/amd-r5-5600-msi-rtx-3060-ventus-xs-oc-b550m-a-pro-msi-500gb-crucial-16gb/
+150,AMD Ryzen 5 5600,NVIDIA RTX 3060,16 GB,500 GB,19896,tebilon.com,https://www.tebilon.com/amd-r5-5600-msi-rtx-3060-gaming-x-12g-b550m-pro-msi-500gb-ssd-crucial-16gb/
+151,AMD Ryzen 5 5600,NVIDIA RTX 3060,16 GB,500 GB,20224,tebilon.com,https://www.tebilon.com/amd-r5-5600-asus-tuf-rtx3060-o12g-v2-gaming-prime-b450m-k-ii-wd-500gb-corsair-16gb/
+152,AMD Ryzen 3 4100,NVIDIA RTX 3050,16 GB,500 GB,16044,tebilon.com,https://www.tebilon.com/amd-4100-rtx-3050-ventus-xs-oc-b450m-a-pro-max-kingston-500gb-16gb-ram/
+153,AMD Ryzen 5 4500,NVIDIA RTX 3050,16 GB,500 GB,15673,tebilon.com,https://www.tebilon.com/amd-r5-4500-msi-rtx-3050-gaming-x-b450m-a-pro-max-kingston-500gb-crucial-16gb/
+154,AMD Ryzen 5 3600,NVIDIA RTX 3050,16 GB,500 GB,18012,tebilon.com,https://www.tebilon.com/amd-r5-3600-msi-rtx3050-gaming-x-a320m-a-pro-wd-500gb-crucial-16gb/
+155,AMD Ryzen 3 4100,NVIDIA RTX 3050,16 GB,500 GB,15605,tebilon.com,https://www.tebilon.com/amd-r3-4100-msi-rtx-3050-ventus-2x-8g-a320m-a-pro-kingston-500gb-16gb/
+156,AMD Ryzen 3 4100,AMD RX 6500-XT,16 GB,480 GB,11564,tebilon.com,https://www.tebilon.com/amd-r3-4100-msi-rx-6500-xt-mech-2x-4g-ocmsi-a320m-a-pro-kioxia-480gb-crucial-16gb/
+157,Intel Core I3 12100F,NVIDIA RTX 3050,16 GB,500 GB,18978,tebilon.com,https://www.tebilon.com/intel-12100f-msi-rtx-3050-gaming-x-8g-pro-h610m-g-ddr4-wd-500gb-crucial-16gb/
+158,Intel Core I5 12400F,NVIDIA RTX 3060,16 GB,500 GB,21797,tebilon.com,https://www.tebilon.com/intel-12400f-msi-rtx-3060-ventus-oc-pro-h610m-g-ddr4-wd-500gb-crucial-16gb/
+159,Intel Core I3 10100F,AMD RX 6500-XT,8 GB,480 GB,11608,tebilon.com,https://www.tebilon.com/intel-10100f-msi-rx-6500-xt-mech-2x-4g-oc-h510m-a-pro-crucial-8gb-kioxia-480gb-/
+160,Intel Core I5 11400F,NVIDIA RTX 3050,16 GB,500 GB,18725,tebilon.com,https://www.tebilon.com/intel-11400f-msi-rtx-3050-ventus-2x-8g-h510m-a-pro-corsair-16gb-kingston-500gb/
+161,Intel Core I5 11400F,NVIDIA RTX 3050,16 GB,500 GB,18725,tebilon.com,https://www.tebilon.com/intel-11400f-msi-rtx-3050-gaming-x-8g-h510m-pro-e-crucial-16gb-wd-500gb/
+162,Intel Core I5 11400F,NVIDIA RTX 3060,16 GB,500 GB,18931,tebilon.com,https://www.tebilon.com/intel-11400f-msi-rtx3060-ventus-2x-12g-oc-b560m-a-pro-kingston-500gb-crucial-16gb/
+163,Intel Core I5 11400F,NVIDIA RTX 3050,16 GB,500 GB,18965,tebilon.com,https://www.tebilon.com/intel-11400f-gigabyte-rtx3050-gaming-oc-h510m-h-kingston-500gb-crucial-16gb/
+164,AMD Ryzen 5 5600X,NVIDIA RTX 3060 TI,16 GB,500 GB,21858,tebilon.com,https://www.tebilon.com/amd-5600x-rtx-3060-ti-ventus-2x8g-ocv1-lhr-b550m-pro-kingston-500gb-16gb-ram/
+165,AMD Ryzen 5 5600X,NVIDIA RTX 3060,16 GB,500 GB,19852,tebilon.com,https://www.tebilon.com/amd-5600x-msi-rtx3060-gaming-x-12g-b550m-a-pro-kingston-16gb-500gb/
