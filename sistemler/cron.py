@@ -157,6 +157,7 @@ class MyCronJob(CronJobBase):
         degis("11400","Intel Core I5 11400F","islemci")
         degis("12100","Intel Core I3 12100F","islemci")
         degis("12400","Intel Core I5 12400F","islemci")
+        degis("12500","Intel Core I5 12500","islemci")
         degis("12600","Intel Core I5 12600K","islemci")
         degis("12700","Intel Core I5 12700F","islemci")
         degis("12900","Intel Core I9 12900K","islemci")
