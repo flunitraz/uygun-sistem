@@ -6,7 +6,7 @@ class Sistem(models.Model):
     ekran_karti = models.CharField(max_length=100)
     ram = models.CharField(max_length=100)
     depolama = models.CharField(max_length=100)
-    fiyat = models.CharField(max_length=100)
+    fiyat = models.IntegerField()
     satici = models.CharField(max_length=100)
     url = models.CharField(max_length=300)
     img = models.CharField(max_length=300)

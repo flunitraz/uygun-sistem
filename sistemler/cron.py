@@ -5,7 +5,7 @@ import sqlite3
 from django_cron import CronJobBase, Schedule
 
 class MyCronJob(CronJobBase):
-    RUN_EVERY_MINS = 1440 # every day
+    RUN_EVERY_MINS = 1 # every day
 
     schedule = Schedule(run_every_mins=RUN_EVERY_MINS)
     code = 'scraped'    # a unique code
@@ -125,6 +125,9 @@ class MyCronJob(CronJobBase):
             temp = tebilon_df.loc[i].ram
             tebilon_df.loc[i].ram = tebilon_df.loc[i].depolama
             tebilon_df.loc[i].depolama = temp
+        
+        for i in tebilon_df[(tebilon_df.ram.str.contains("8")) & (tebilon_df.islemci.str.contains("4100"))].index:
+             tebilon_df.loc[i].ekran_karti = "6500 XT"
 
         df = pd.concat([ggt_df,itopya_df,tebilon_df])
         df = df.reset_index(drop=True)
@@ -215,6 +218,8 @@ class MyCronJob(CronJobBase):
         degis("GIGA","480 GB","depolama")
 
         conn = sqlite3.connect('./db.sqlite3')
+        
         df = df.reset_index().rename(columns = {'index':'id'})
-
+        df.fiyat = df.fiyat.astype(int)
+        
         df.to_sql("sistemler_sistem", conn,if_exists='replace', index = False)
